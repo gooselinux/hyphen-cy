@@ -1,0 +1,15 @@
+--- hyph-cy.tex.orig	2009-06-13 19:28:14.000000000 +0100
++++ hyph-cy.tex	2009-06-13 19:28:42.000000000 +0100
+@@ -60,7 +60,6 @@
+ %
+ % Welsh patterns
+ % Yannis Haralambous 1996
+-\patterns{
+ .ac4t
+ .ad3ae
+ .add5as
+@@ -6789,4 +6788,3 @@
+ ywy3na
+ ywy5ne
+ y1y
+-}
